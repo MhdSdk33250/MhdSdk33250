@@ -1,17 +1,7 @@
 <img align="center" src="https://i.imgur.com/flB91XM.png" >
 <h1 align="center">Hello fellow developers :)
 <p align="center"> I am Mehdi. I Love programming and currently an apprentice web developer. </p>
-<img align="right" src="https://imgur.com/Vy2BKrQ" height="300" width="300">
-<h3 align="center"> Language & Skills </h3>
 
-- Python
-- C++
-- JavaScipt
-- Web Development
-- Machine Learning
-- Deep learning
-- Natural language processing
-- App Development
 
 <h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
