@@ -1,5 +1,5 @@
-<h1 align="center">Hello fellow developers :)
 <img align="center" src="https://i.imgur.com/flB91XM.png" >
+<h1 align="center">Hello fellow developers :)
 <p align="center"> I am Mehdi. I Love programming and currently an apprentice web developer. </p>
 <img align="right" src="https://imgur.com/Vy2BKrQ" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
