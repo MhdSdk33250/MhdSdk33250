@@ -25,7 +25,7 @@ class Life {
   contact() {
     this.webSite() = "http://mehdiseddik.eu/"; // TODO : update
     this.eMail = "mhdi.seddik@gmail.com";
-    this.linkedIn = "https://www.linkedin.com/in/mehdi-seddik-841b341b9/";
+    this.linkedIn = "www.linkedin.com/in/mehdi-seddik-841b341b9";
   }
  
 ```
