@@ -19,12 +19,12 @@ class Life {
   }
   
   currentProjects() {
-    this.actuallyLearning = "ReactJs"; 
+    this.actuallyLearning = ["ReactJs","GO"]; 
     this.focusingOn = "Writing quality code";
   }  
   
   contact() {
-    this.webSite() = "http://mehdiseddik.eu/"; // TODO : update
+    this.webSite = "http://mehdiseddik.eu/"; // TODO : update
     this.eMail = "mhdi.seddik@gmail.com";
     this.linkedIn = "www.linkedin.com/in/mehdi-seddik-841b341b9";
   }
