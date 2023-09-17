@@ -25,7 +25,9 @@ class Life {
     email: "mhdi.seddik@gmail.com",
     linkedIn: "www.linkedin.com/in/mehdi-seddik-841b341b9"
   }
- 
+
+
+
 ```
 
 <br>
