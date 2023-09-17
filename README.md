@@ -13,20 +13,17 @@ import Mehdi from "Life";
 
 class Life {
   constructor(Mehdi) {
-    this.currentJob = "apprentice web developer";
-    this.hobbies = ["gaming","coding","Manga","tacos"];
-    this.stack = ["Symfony","Sql","JavaScript","Git","..."]
+    this.currentJob = "apprentice developer";
+    this.hobbies = ["gaming","coding","animes","gym"];
+    this.stack = ["react","typescript","nodejs","go","symphony",...];
   }
   
-  currentProjects() {
-    this.actuallyLearning = ["ReactJs","GO"]; 
-    this.focusingOn = "Writing quality code";
-  }  
+  currentProjects = ["Learning golang"]  
   
-  contact() {
-    this.webSite = "http://mehdiseddik.eu/"; // TODO : update
-    this.eMail = "mhdi.seddik@gmail.com";
-    this.linkedIn = "www.linkedin.com/in/mehdi-seddik-841b341b9";
+  contacts = {
+    website: "http://mehdiseddik.eu/", // TODO : update
+    email: "mhdi.seddik@gmail.com",
+    linkedIn: "www.linkedin.com/in/mehdi-seddik-841b341b9"
   }
  
 ```
