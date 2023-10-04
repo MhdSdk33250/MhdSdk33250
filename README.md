@@ -21,7 +21,7 @@ class Life {
   currentProjects = ["Learning golang"]  
   
   contacts = {
-    website: "http://mehdiseddik.eu/", // TODO : destroy this shit and rebuild a new portfolio with my actual skills
+    website: "http://mehdiseddik.eu/", // TODO : update this shit :)
     email: "mhdi.seddik@gmail.com",
     linkedIn: "www.linkedin.com/in/mehdi-seddik-841b341b9"
   }
